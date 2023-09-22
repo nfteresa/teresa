@@ -1,0 +1,238 @@
+
+
+body {
+        background-image: url('https://wallpaper.dog/large/20392008.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+        overflow-x: hidden;
+      }
+        
+    
+
+    header {
+        background-image: url('https://static.vecteezy.com/system/resources/previews/006/430/145/non_2x/technology-background-concept-circuit-board-electronic-system-futuristic-hi-tech-light-on-dark-blue-free-vector.jpg') ;
+        color: #fff;
+        
+        }
+    .signif{
+        margin-top: 200px; 
+        background-image: url('https://wallpaperaccess.com/full/2454628.png');
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        height: 510px;
+    }
+    .signif1{
+        margin-top: 200px; 
+        background-image: url('https://wallpaperaccess.com/full/2454628.png');
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        height: 800px;
+}
+
+    header h1 {
+        font-size: 36px;
+    }
+
+    nav {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        color: #000000;
+    }
+
+    nav a {
+        text-decoration: none;
+        color: #ffffff;
+        margin: 0 20px;
+        font-size: 18px;
+    }
+
+
+
+
+
+    
+    .carousel-item{
+        min-height: 280px;
+    }
+
+.about{
+        margin-left: 40px;
+        font-family:'Audiowide';
+        color: rgb(255, 255, 255);
+        font-size: 45px;
+        margin-right: 400px;}
+.about1{
+
+                font-family:'Audiowide';
+                color: rgb(255, 255, 255);
+                font-size: 40px;
+                margin-left: 450px;}
+.about2{
+
+                        font-family:'Audiowide';
+                        color: rgb(255, 255, 255);
+                        font-size: 40px;
+                        margin-left: 40px;
+                        
+                
+                        }
+.about3{
+
+                                font-family:'Audiowide';
+                                color: rgb(255, 255, 255);
+                                font-size: 20px;
+                                color: white;
+                                margin-left: 50px;
+                                 
+                     
+                                }
+ .about4{
+
+                                        font-family:'Audiowide';
+                                        color: rgb(255, 255, 255);
+                                        font-size: 40px;
+                                        color: white;
+                                        text-align: center;   
+                                        
+                                        
+                                
+                                        }
+                
+        
+.bscpe{
+        margin-left: 20px;
+        font-size: 25px;
+        font-family:'Mooli';
+        text-indent: 2.5cm;
+        margin-right: 450px;
+        text-align:justify;
+        color: #ffffff;
+}
+.bscpe1{
+        margin-right: 50px;
+        font-size: 25px;
+        font-family:'Mooli';
+        text-indent: 2.5cm;
+        margin-left: 430px;
+        text-align:justify;
+        color: #ffffff;
+        
+}
+.bscpe2{
+        
+        margin-right: 750px;
+        font-size: 25px;
+        font-family:'Mooli';
+        text-indent: 2.5cm;
+        text-align:justify;
+        color: #ffffff;
+margin-left: 80px;}
+        .bscpe3{
+        
+                margin-right: 200px;
+                margin-left: 200px;
+                font-size: 25px;
+                font-family:'Mooli';
+                text-indent: 2.5cm;
+                text-align:justify;
+                color: #ffffff;
+}
+
+
+.inside{
+        margin-left: 120px;
+        font-size: 20px;
+        font-family: "Trirong";
+        margin-right: 30px;
+        color: rgb(243, 243, 245);
+}
+.binside{
+        margin-left: 70px;
+        font-size: 20px;
+        font-family: "Trirong";
+        text-indent: 2.5cm;
+        margin-right: 30px;
+        color: white;
+}
+.card{
+        background-color: rgb(0, 0, 19);
+}
+.cardtext{
+        color: white;
+        font-size: 16px;
+        font-family:'Poppins';
+        
+}
+.caropp1{
+background-image: url('https://elements-cover-images-0.imgix.net/5ac769ab-9a44-4a40-9625-60810921765f?auto=compress%2Cformat&w=1370&fit=max&s=955cca835df828089ff5e6f79844444f');
+
+
+}
+.cardtitle{
+        color: white;
+        font-size: 26px;
+        font-family:'Oswald'
+
+}
+
+
+.card-image {
+        background-repeat: no-repeat;
+        background-size: cover;
+        width:287px;
+        height:200px;
+        margin: auto;
+}
+.text1{
+        font-size: 40px;
+        color: white;
+        text-align: center;
+        font-family: "Audiowide";
+}
+.text2{
+        font-size:30px;
+        margin-top:20px;
+        text-align: justify;
+        text-indent: 3cm;
+        color: white;
+        margin-left: 250px;
+        margin-right: 250px;
+        font-family: "Trirong";
+}
+.emb{
+        font-family: 'Skrenji';
+        font-size: 35px;
+        color: white;
+        margin-left: 20px;
+
+}
+.specialization{
+        background-image: url(https://static.vecteezy.com/system/resources/previews/000/558/818/original/dark-blue-color-vector-background-digital-technology-abstract-background-concept.jpg);
+}
+.specialization1{
+        margin-left: 30px;
+        color: white;
+        font-size: 30px;
+        font-family:'Kanit';
+}
+
+
+
+.carousel-item {
+        transition: transform 2.6s ease-in-out;
+      }
+      
+.carousel-fade .active.carousel-item-start,
+.carousel-fade .active.carousel-item-end {
+transition: opacity 0s 2.6s;
+      }
+  .acc1{
+        color: white; 
+        font-family: 'Poppins'; 
+        text-indent: 2cm;
+        font-size: 30px;
+  }
